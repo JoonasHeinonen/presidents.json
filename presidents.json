@@ -49,6 +49,13 @@
         "years_in_office": 10
     },
     {
+        "name": "Urho Kaleva Kekkonen",
+        "party": "Maalaisliitto",
+        "starting_year": "1956",
+        "last_year": "1982",
+        "years_in_office": 26
+    },
+    {
         "name": "Mauno Henrik Koivisto",
         "party": "SDP",
         "starting_year": "1982",
